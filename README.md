@@ -1,2 +1,3 @@
 # The-Cashier
-A cashier who transform the total cents entered in dollars, quarters, dimes, nickels and pennies.
+
+This simple program will convert the total of cents entered by the user in dollars, quarters, dimes, nickels and pennies.
